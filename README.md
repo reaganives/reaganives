@@ -4,10 +4,9 @@
 I’m Reagan from California. I really enjoy creating responsive and creative web applications using frameworks like React and environments like Node.js.
 
 ## Get In Touch
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=GitHub&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:reagan.ives@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reaganives/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=GitHub&logoColor=white)](https://reaganives.io)
 
 ## What I Work With
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
