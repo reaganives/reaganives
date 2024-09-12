@@ -1,4 +1,5 @@
 ### Hey, I'm Reagan.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 I really enjoy creating responsive and creative web applications using frameworks like React and environments like Node.js.
 When I'm not developing, I'm usually writing music, reading phillosophy, or grabbing something to eat with my friends.
