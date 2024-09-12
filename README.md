@@ -1,7 +1,6 @@
 ### Hey, I'm Reagan.
-#### Design and Development
 
-I’m Reagan from California. I really enjoy creating responsive and creative web applications using frameworks like React and environments like Node.js.
+I really enjoy creating responsive and creative web applications using frameworks like React and environments like Node.js.
 
 ## Get In Touch
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:reagan.ives@protonmail.com)
