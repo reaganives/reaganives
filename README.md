@@ -1,6 +1,7 @@
 ### Hey, I'm Reagan.
 
 I really enjoy creating responsive and creative web applications using frameworks like React and environments like Node.js.
+When I'm not developing, I'm usually writing music, reading phillosophy, or playing outside with my dogs.
 
 ## Get In Touch
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:reagan.ives@protonmail.com)
