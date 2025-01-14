@@ -2,7 +2,7 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 I really enjoy creating responsive and elaborate web applications using frameworks like React and environments like Node.js.
-When I'm not developing, I'm usually writing music, reading phillosophy, surfing, or grabbing something to eat with my friends.
+When I'm not developing, I'm usually writing music, reading phillosophy, surfing, or grabbing something to eat with my friends. 
 
 ## Get In Touch
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:reagan.ives@protonmail.com)
